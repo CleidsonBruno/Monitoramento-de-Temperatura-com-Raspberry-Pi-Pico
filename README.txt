@@ -1,4 +1,4 @@
-# 📡 Monitoramento de Temperatura com Raspberry Pi Pico
+## 📡 Monitoramento de Temperatura com Raspberry Pi Pico
 
 
 Este projeto utiliza o Raspberry Pi Pico para medir a temperatura através do ADC (Conversor Analógico-Digital) e exibir a leitura em Fahrenheit no console.
@@ -58,7 +58,7 @@ minicom -b 115200 -o -D /dev/ttyUSB0
 ## 🖥️ Simulação Online
 
 Você pode testar este projeto diretamente no Wokwi através do link abaixo:  
-🔗 **[Simulação no Wokwi](https://wokwi.com/projects/421396548208238593)**
+🔗 **[Simulação no Wokwi](https://wokwi.com/projects/421396548208238593)
 
 ---
 
@@ -76,6 +76,6 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ## 👨‍💻 Autor
 
-Feito com ❤️ por **[Cleidson Bruno](https://github.com/CleidsonBruno)**  
-🔗 **[LinkedIn](https://br.linkedin.com/in/cleidsonbruno)**
+Feito por **[Cleidson Bruno](https://github.com/CleidsonBruno)
+🔗 **[LinkedIn](https://br.linkedin.com/in/cleidsonbruno)
 
