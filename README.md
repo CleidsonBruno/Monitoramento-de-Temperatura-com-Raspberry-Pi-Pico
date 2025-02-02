@@ -76,6 +76,6 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ## 👨‍💻 Autor
 
-Feito por **[Cleidson Bruno](https://github.com/CleidsonBruno)
-🔗 **[LinkedIn](https://br.linkedin.com/in/cleidsonbruno)
+- [LinkedIn](https://br.linkedin.com/in/cleidsonbruno)
+- [GitHub](https://github.com/CleidsonBruno)
 
